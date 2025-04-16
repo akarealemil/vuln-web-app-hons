@@ -20,10 +20,4 @@ robots.txt contains directories that are hidden within the vulnerability list. O
 Vulnerability 3:
 Improper error pages
 
-### NoSQL Injection
-
-
-### Cross-Site Scripting
-
-
-### Broken Access Control
+All other info at https://github.com/akarealemil/vuln-web-app-hons/blob/main/Vulnerability%20List.txt
